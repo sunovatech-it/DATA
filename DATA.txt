@@ -1,1 +1,1 @@
-192.168.0.92,C:/Games/CP_Build/Windows/PatricksClimb.exe,192.168.0.92,C:/Games/CP_Virtual_Climb_Build/WindowsNoEditor/Croagh_UE.exe
+10.167.50.250,C:/Games/CP_Build/Windows/PatricksClimb.exe,10.167.50.250,C:/Games/CP_Virtual_Climb_Build/WindowsNoEditor/Croagh_UE.exe
